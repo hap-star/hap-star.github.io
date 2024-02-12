@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "2fa5e45f4b7c6784",
+    "type": "split",
+    "children": [
+      {
+        "id": "42f77dd20f9fd2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edd0b0be6ea0116b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-02-12-first-posting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7b79777aac8528d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec297bcd2e17bd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8586507e27af20b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aabe8abff9baef9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a4c0b1f048cbae7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45e305d388c10552",
+    "type": "split",
+    "children": [
+      {
+        "id": "411e10f378cac6ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eecf945d5ce2064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-02-12-first-posting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f0e4b0da689559d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-02-12-first-posting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "139db2c16ad99f08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16a94b256699b899",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-02-12-first-posting.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "edd0b0be6ea0116b",
+  "lastOpenFiles": [
+    "assets/images/input2.jpg",
+    "assets/images",
+    "images",
+    "CHANGELOG.md",
+    "README.md",
+    "docs/_docs/05-configuration.md",
+    "_posts/2024-02-12-first-posting.md",
+    "_posts/2024-02-12-first_posting.md"
+  ]
+}
