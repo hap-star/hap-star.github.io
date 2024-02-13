@@ -8,7 +8,6 @@ title: 첫 포스팅
 
 **강조표시** 
 
+![[input2.jpg]]
 
-
-
-![[assets/images/input2.jpg]]
+![image](E:\03-projects\hap-star-github-blog\hap-star.github.io\assets\images\input2.jpg "image")
