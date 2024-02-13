@@ -10,4 +10,4 @@ title: 첫 포스팅
 
 ![[input2.jpg]]
 
-![image](E:\03-projects\hap-star-github-blog\hap-star.github.io\assets\images\input2.jpg "image")
+![image]({{site.url}}\assets\images\input2.jpg "image")
