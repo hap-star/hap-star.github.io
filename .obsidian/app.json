@@ -1,3 +1,8 @@
 {
-  "attachmentFolderPath": "assets/images"
+  "attachmentFolderPath": "assets/images",
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "source"
 }
