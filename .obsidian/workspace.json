@@ -15,6 +15,7 @@
               "state": {
                 "file": "_posts/2024-02-12-first-posting.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -148,6 +149,14 @@
   },
   "active": "e4ba2995f3c77ae7",
   "lastOpenFiles": [
+    "_site/assets/images/logo.png",
+    "assets/images/logo.png",
+    "_site/assets/images/logo_2.png",
+    "assets/images/logo_2.png",
+    "_site/assets/images/star.png",
+    "assets/images/star.png",
+    "assets/images/star.png.crdownload",
+    "assets/images/logo.png.crdownload",
     "daily_notes/2024-02-13.md",
     "_posts/2024-02-12-first-posting.md",
     "daily_notes",
