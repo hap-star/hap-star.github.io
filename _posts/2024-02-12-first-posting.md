@@ -1,9 +1,22 @@
 ---
 title: 첫 포스팅
 layout: single
+categories: coding
+tag: [test, test1]
+toc: true
 date: 2024-02-13
 ---
 헤더(헤딩)은 '#' 과 공백 후에 글자를 쓰면 됨 '#' 의 개수에 따라 1, 2, 3, 4, 5, 6 크기 지정 가능
+
+```cpp
+int main() {
+	std::cout << std::endl;
+}
+```
+
+```python
+print(1)
+```
 
 **실시간으로 반영이 될까?**
 # heading1
@@ -37,7 +50,10 @@ _기울임_
 - 항목 2
 - 항목 3
 
-구분선은 ---를 통해 생성
+구분선은 \---를 이용해서 생성
+
+
+
 --- 
 
 인라인 코드 `
