@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-12-first-posting.md",
+                "file": "_posts/2024-02-18-baekjoon-2039.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-12-first-posting.md",
+                "file": "_posts/2024-02-18-baekjoon-2039.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-12-first-posting.md",
+                "file": "_posts/2024-02-18-baekjoon-2039.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-12-first-posting.md"
+                "file": "_posts/2024-02-18-baekjoon-2039.md"
               }
             }
           }
@@ -149,23 +149,28 @@
   },
   "active": "e4ba2995f3c77ae7",
   "lastOpenFiles": [
-    "_site/google1c86c46add8b2c54.html",
-    "google1c86c46add8b2c54.html",
-    "확인되지 않음 503441.crdownload",
-    "_site/404.html",
-    "_site/_pages/404.md",
+    "_posts/백준 일곱 난쟁이(2309) 문제 풀이.md",
+    "_posts/2024-02-18-baekjoon-2039.md",
+    "_pages/백준 일곱 난쟁이(2309) 문제 풀이.md",
+    "_site/_pages/백준 일곱 난쟁이(2309) 문제 풀이/index.html",
+    "_site/_pages/백준 일곱 난쟁이(2309) 문제 풀이",
     "_site/_pages",
+    "_posts/2024-02-12-first-posting.md",
+    "_site/algorithm/baekjoon-2039/index.html",
+    "_site/algorithm/baekjoon-2039",
+    "_site/algorithm",
+    "_site/baekjoon-2039/index.html",
+    "_site/baekjoon-2039",
+    "_posts/2024-02-18-baekjoon-2309.md",
+    "_site/algorithm/baekjoon-2309/index.html",
+    "_site/algorithm/baekjoon-2309",
+    "_posts/일곱 난쟁이 풀이.md",
+    "_pages/category-archive.md",
+    "_site/_pages/404.md",
     "_pages/404.md",
-    "_site/tags/index.html",
-    "_site/tags",
     "_site/_pages/tag-archive.md",
     "_pages/tag-archive.md",
-    "_site/coding/first-posting/index.html",
-    "_site/coding/first-posting",
-    "_site/coding",
-    "_site/categories/index.html",
     "_site/_pages/category-archive.md",
-    "_pages/category-archive.md",
     "_site/assets/images/logo.png",
     "assets/images/logo.png",
     "_site/assets/images/logo_2.png",
@@ -173,7 +178,6 @@
     "_site/assets/images/star.png",
     "assets/images/star.png",
     "daily_notes/2024-02-13.md",
-    "_posts/2024-02-12-first-posting.md",
     "assets/images/input2.jpg",
     "test/_portfolio/baz-boom-identity.md",
     "screenshot-layouts.png",
