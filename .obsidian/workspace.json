@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-19-baekjoon-1159.md",
+                "file": "_posts/2024-02-19-baekjoon-2259.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-19-baekjoon-1159.md",
+                "file": "_posts/2024-02-19-baekjoon-2259.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-19-baekjoon-1159.md",
+                "file": "_posts/2024-02-19-baekjoon-2259.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-19-baekjoon-1159.md"
+                "file": "_posts/2024-02-19-baekjoon-2259.md"
               }
             }
           }
@@ -149,14 +149,14 @@
   },
   "active": "e4ba2995f3c77ae7",
   "lastOpenFiles": [
-    "_posts/2024-02-19-baekjoon-2259.md",
     "_posts/2024-02-19-baekjoon-1620.md",
     "_posts/2024-02-19-baekjoon-1159.md",
+    "_posts/2024-02-18-baekjoon-2039.md",
+    "_posts/2024-02-19-baekjoon-2259.md",
     "assets/images/prefixSum.png",
     "_posts/2024-02-12-first-posting.md",
     "assets/images/누적합.png",
     "assets/images/Pasted image 20240219225739.png",
-    "_posts/2024-02-18-baekjoon-2039.md",
     "_posts/백준 일곱 난쟁이(2309) 문제 풀이.md",
     "_site/categories/algorithm/index.html",
     "_site/categories/algorithm",
